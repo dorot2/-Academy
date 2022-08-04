@@ -1,4 +1,4 @@
-# Academy
+# Academy_Open-API-JAVA
 20220719 ~ 20221230
 
 20220719
